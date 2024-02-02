@@ -1,0 +1,240 @@
+E:\SPL-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+E:\SPL-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+E:\SPL-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+E:\SPL-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+E:\SPL-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+E:\SPL-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SPL-main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\SPL-main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+D:\New folder (2)\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Bansolid\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+E:\Academics\3rd Semester\BankSolid Main\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+C:\Users\User\Desktop\banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+D:\BANKSOLID-MAIN\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Banksolid\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.exe
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.deps.json
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.runtimeconfig.json
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\BANKSOLID.pdb
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.AssemblyReference.cache
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfoInputs.cache
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.AssemblyInfo.cs
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CoreCompileInputs.cache
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.csproj.CopyComplete
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\refint\BANKSOLID.dll
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.pdb
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\BANKSOLID.genruntimeconfig.cache
+E:\Academics\3rd Semester\BankSolid\BANKSOLID-MAIN\obj\Debug\net6.0\ref\BANKSOLID.dll
